@@ -1,0 +1,28 @@
+name: SayWorld
+favicon: null
+layout_spectrum: 0.2626669080927968
+typography_spectrum: 0.08612501248717308
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.826788391917944
+  lightness: 0.9072355416137725
+  saturation: 0.5223820223473012
+  rhythmicContrast: 0.5696055553853512
+purpose: []
