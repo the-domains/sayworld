@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SayWorld]]></title>
-        <description><![CDATA[SayWorld]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Say.World]]></title>
+        <description><![CDATA[Say.World]]></description>
+        <link>http://www.say.world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 04:08:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 02 Jun 2016 05:07:11 GMT</lastBuildDate>
+        <atom:link href="http://www.say.world/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1fa6c3a-c111-473e-9440-386fa633f91b.jpg">]]></description>
+            <link>http://www.say.world/d20b17bd-36cd-4524-a0e0-d3448be56511/index.html</link>
+            <guid isPermaLink="false">d20b17bd-36cd-4524-a0e0-d3448be56511</guid>
+            <pubDate>Thu, 02 Jun 2016 05:07:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c292dfc-5518-4952-b70b-a3481c2fab90.png">]]></description>
-            <link>undefineda0ae9be7-b174-431b-84c3-ac4b1f20a0b1/index.html</link>
+            <link>http://www.say.world/a0ae9be7-b174-431b-84c3-ac4b1f20a0b1/index.html</link>
             <guid isPermaLink="false">a0ae9be7-b174-431b-84c3-ac4b1f20a0b1</guid>
             <pubDate>Wed, 01 Jun 2016 04:07:19 GMT</pubDate>
         </item>
