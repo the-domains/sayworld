@@ -4,7 +4,7 @@
         <description><![CDATA[Say . World]]></description>
         <link>http://say.world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 09:02:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 09:03:05 GMT</lastBuildDate>
         <atom:link href="http://say.world/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Central Park, Cabs and City Cowboys]]></title>
@@ -12,13 +12,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6fb6510-f7a1-45c0-91b2-9390312cfeaf.jpg</link>
             <guid isPermaLink="false">029457ff-52e7-42b2-88d8-c16047f4b230</guid>
             <pubDate>Tue, 02 Aug 2016 08:57:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c292dfc-5518-4952-b70b-a3481c2fab90.png">]]></description>
-            <link>http://say.world/a0ae9be7-b174-431b-84c3-ac4b1f20a0b1/index.html</link>
-            <guid isPermaLink="false">a0ae9be7-b174-431b-84c3-ac4b1f20a0b1</guid>
-            <pubDate>Wed, 01 Jun 2016 04:07:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
