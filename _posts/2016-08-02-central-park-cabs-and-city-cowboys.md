@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-02T08:54:02.167Z'
+datePublished: '2016-08-02T08:57:16.089Z'
 sourcePath: _posts/2016-08-02-central-park-cabs-and-city-cowboys.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6fb6510-f7a1-45c0-91b2-9390312cfeaf.jpg
 author: []
 via: {}
-dateModified: '2016-08-02T08:53:59.699Z'
+dateModified: '2016-08-02T08:57:15.419Z'
 title: 'Central Park, Cabs and City Cowboys'
 publisher: {}
 description: '9th Ave, Hells Kitchen. New York City'
