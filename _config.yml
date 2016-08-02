@@ -1,20 +1,4 @@
-name: Say.World
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.73689
-title: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,24 @@ color:
   lightness: 0
   saturation: 0
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Tegan DeClark
+  email: saydotworld@gmail.com
+  url: say.world
+name: Say.World
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: null
 purpose: []
